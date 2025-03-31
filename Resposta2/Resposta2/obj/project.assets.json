@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Workspace\\Resposta2\\Resposta2\\Resposta2.csproj",
+      "projectUniqueName": "C:\\Workspace\\TesteTargetSistemas\\Resposta2\\Resposta2\\Resposta2.csproj",
       "projectName": "Resposta2",
-      "projectPath": "C:\\Workspace\\Resposta2\\Resposta2\\Resposta2.csproj",
+      "projectPath": "C:\\Workspace\\TesteTargetSistemas\\Resposta2\\Resposta2\\Resposta2.csproj",
       "packagesPath": "C:\\Users\\pansa\\.nuget\\packages\\",
-      "outputPath": "C:\\Workspace\\Resposta2\\Resposta2\\obj\\",
+      "outputPath": "C:\\Workspace\\TesteTargetSistemas\\Resposta2\\Resposta2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\pansa\\AppData\\Roaming\\NuGet\\NuGet.Config",

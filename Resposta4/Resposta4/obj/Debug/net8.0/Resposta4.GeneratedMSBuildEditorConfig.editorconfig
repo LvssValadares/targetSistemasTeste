@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Resposta4
-build_property.ProjectDir = C:\Workspace\Resposta4\Resposta4\
+build_property.ProjectDir = C:\Workspace\TesteTargetSistemas\Resposta4\Resposta4\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Resposta5\\Resposta5\\Resposta5.csproj": {}
+    "C:\\Workspace\\TesteTargetSistemas\\Resposta5\\Resposta5\\Resposta5.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Resposta5\\Resposta5\\Resposta5.csproj": {
+    "C:\\Workspace\\TesteTargetSistemas\\Resposta5\\Resposta5\\Resposta5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Resposta5\\Resposta5\\Resposta5.csproj",
+        "projectUniqueName": "C:\\Workspace\\TesteTargetSistemas\\Resposta5\\Resposta5\\Resposta5.csproj",
         "projectName": "Resposta5",
-        "projectPath": "C:\\Workspace\\Resposta5\\Resposta5\\Resposta5.csproj",
+        "projectPath": "C:\\Workspace\\TesteTargetSistemas\\Resposta5\\Resposta5\\Resposta5.csproj",
         "packagesPath": "C:\\Users\\pansa\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Resposta5\\Resposta5\\obj\\",
+        "outputPath": "C:\\Workspace\\TesteTargetSistemas\\Resposta5\\Resposta5\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\pansa\\AppData\\Roaming\\NuGet\\NuGet.Config",
