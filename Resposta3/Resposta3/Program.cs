@@ -14,8 +14,8 @@ class Program
         var dados = JsonSerializer.Deserialize<FaturamentoMensal>(jsonString);
 
         var faturamentos = dados.FaturamentoDiario
-            .Where(d => d.Valor > 0)
-            .Select(d => d.Valor)
+            .Where(d => d.valor > 0)
+            .Select(d => d.valor)
             .ToList();
 
         if (faturamentos.Count == 0)
@@ -37,8 +37,8 @@ class Program
 
 public class FaturamentoDiario
 {
-    public int Dia { get; set; }
-    public double Valor { get; set; }
+    public int dia { get; set; }
+    public double valor { get; set; }
 }
 
 public class FaturamentoMensal
