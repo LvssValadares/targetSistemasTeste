@@ -1,0 +1,14 @@
+C:\Workspace\Resposta2\Resposta2\bin\Debug\net8.0\Resposta2.exe
+C:\Workspace\Resposta2\Resposta2\bin\Debug\net8.0\Resposta2.deps.json
+C:\Workspace\Resposta2\Resposta2\bin\Debug\net8.0\Resposta2.runtimeconfig.json
+C:\Workspace\Resposta2\Resposta2\bin\Debug\net8.0\Resposta2.dll
+C:\Workspace\Resposta2\Resposta2\bin\Debug\net8.0\Resposta2.pdb
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.AssemblyInfoInputs.cache
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.AssemblyInfo.cs
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.csproj.CoreCompileInputs.cache
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.dll
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\refint\Resposta2.dll
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.pdb
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\Resposta2.genruntimeconfig.cache
+C:\Workspace\Resposta2\Resposta2\obj\Debug\net8.0\ref\Resposta2.dll

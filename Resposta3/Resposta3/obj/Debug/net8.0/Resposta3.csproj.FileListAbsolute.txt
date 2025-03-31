@@ -1,0 +1,14 @@
+C:\Workspace\Resposta3\Resposta3\bin\Debug\net8.0\Resposta3.exe
+C:\Workspace\Resposta3\Resposta3\bin\Debug\net8.0\Resposta3.deps.json
+C:\Workspace\Resposta3\Resposta3\bin\Debug\net8.0\Resposta3.runtimeconfig.json
+C:\Workspace\Resposta3\Resposta3\bin\Debug\net8.0\Resposta3.dll
+C:\Workspace\Resposta3\Resposta3\bin\Debug\net8.0\Resposta3.pdb
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.AssemblyInfoInputs.cache
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.AssemblyInfo.cs
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.csproj.CoreCompileInputs.cache
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.dll
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\refint\Resposta3.dll
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.pdb
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\Resposta3.genruntimeconfig.cache
+C:\Workspace\Resposta3\Resposta3\obj\Debug\net8.0\ref\Resposta3.dll
